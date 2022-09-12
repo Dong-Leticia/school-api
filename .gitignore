@@ -1,2 +1,4 @@
 DB_URL=mongodb+srv://Dong_Leticia:dongleticia868@cluster0.5giilld.mongodb.net/schoolAPI?retryWrites=true&w=majority
+
+
 node_modules
